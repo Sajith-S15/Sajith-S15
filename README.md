@@ -43,6 +43,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajith-s15&show_icons=true&locale=en&layout=compact" alt="sajith-s15" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajith-s15&show_icons=true&locale=en" alt="sajith-s15" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajith-s15&show_icons=true&locale=en" alt="sajith-s15" style="text-align:center"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajith-s15&" alt="sajith-s15" style="margin-left:2vw"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajith-s15&" alt="sajith-s15" style="text-align:center"/></p>
