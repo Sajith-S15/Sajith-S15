@@ -1,5 +1,5 @@
 
-![coding](https://github.com/Sajith-S15/Sajith-S15/assets/123757769/9d055b5c-90df-4bb1-a355-2d132d58e3de)
+<img src="https://github.com/Sajith-S15/Sajith-S15/assets/123757769/9d055b5c-90df-4bb1-a355-2d132d58e3de" width="100%" />
 
 
 <h1 align="center">Hi 👋, I'm Sajith</h1>
