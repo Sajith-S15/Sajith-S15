@@ -1,5 +1,6 @@
 
-<img src="https://github.com/Sajith-S15/Sajith-S15/assets/123757769/9d055b5c-90df-4bb1-a355-2d132d58e3de" width="100%" />
+<img width="492" alt="Screenshot 2023-06-17 at 3 05 41 AM" src="https://github.com/Sajith-S15/Sajith-S15/assets/123757769/de54927b-7cd3-42db-8b9a-14c28d9094f5">
+
 
 
 <h1 align="center">Hi 👋, I'm Sajith</h1>
