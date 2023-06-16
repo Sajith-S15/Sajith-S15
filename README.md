@@ -1,5 +1,5 @@
 
-<img width="492" alt="Screenshot 2023-06-17 at 3 05 41 AM" src="https://github.com/Sajith-S15/Sajith-S15/assets/123757769/de54927b-7cd3-42db-8b9a-14c28d9094f5">
+<img width="100%" alt="Screenshot 2023-06-17 at 3 05 41 AM" src="https://github.com/Sajith-S15/Sajith-S15/assets/123757769/de54927b-7cd3-42db-8b9a-14c28d9094f5">
 
 
 
