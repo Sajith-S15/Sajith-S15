@@ -42,7 +42,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="mailto:connectsajithinreallife@gmail.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sajith-S15" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajith-s15&show_icons=true&locale=en&layout=compact" alt="sajith-s15" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajith-s15&show_icons=true&locale=en" alt="sajith-s15" style="text-align:center"/></p>
 
